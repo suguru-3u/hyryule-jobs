@@ -33,6 +33,22 @@ export default defineComponent({
   components: {
     Joblist
   },
+  // data() {
+  //   return {
+  //     name : 'Link',
+  //     age : 35 as number | string
+  //   }
+  // },
+  // methods: {
+  //   changeName(name : string) {
+  //     this.name = name
+  //     return name
+  //   },
+  //   changeAge(age: number | string) {
+  //     this.age = age
+  //     return age
+  //   }
+  // },
   setup() {
     // const state = reactive({
     //   name : 'Link',
